@@ -12,6 +12,7 @@ The usage of this webite is to be able to take a quiz and have it save your scor
 
 ## Website URL
 
+https://peckham4563.github.io/Code-Quiz/
 
 ![Screenshot](/assets/images/Code-Quiz-Screenshot.png "Webpage Screenshot")
 
