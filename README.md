@@ -13,7 +13,7 @@ The usage of this webite is to be able to take a quiz and have it save your scor
 ## Website URL
 
 
-![Screenshot](/assets/images/Code_Quiz-Screenshot.png "Webpage Screenshot")
+![Screenshot](/assets/images/Code-Quiz-Screenshot.png "Webpage Screenshot")
 
 ## Credits
 
